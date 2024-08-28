@@ -1,0 +1,14 @@
+<project name="install" basedir="." default="all">
+
+	<property name="dcinstall.require.libs" value="> 5-0-0b5"/>
+	<property name="dcinstall.require.common" value="> 5-0-0b21"/>
+	<property name="dcinstall.require.engine" value="> 5-0-0b422"/>
+	<property name="dcinstall.require.repository" value="> 5-0-0b96"/>
+
+	<target name="install" depends="copyTmpToDeploy">
+		<mkdir dir="${dc.conf.dir}/dtd"/>
+	</target>
+
+	<target name="update" depends="moveToObsolete,install"/>
+
+</project>

@@ -1,0 +1,66 @@
+
+adapters/3GPP32435	-	common		-	common_5-0-0b104.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+adapters/3GPP32435	-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+adapters/3GPP32435	-	xerces		-	xercesImpl.jar		-	vobs/eniq_3pp/apache/xerces_parser/v262/prod
+
+
+adapters/ascii		-	common		-	common_5-0-0b104.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+adapters/ascii		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+
+
+adapters/asn1		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+
+
+adapters/csexport	-	common		-	common_5-0-0b104.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+adapters/csexport	-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+adapters/csexport	-	xerces		-	xercesImpl.jar		-	vobs/eniq_3pp/apache/xerces_parser/v262/prod
+
+
+adapters/ctparser	-	common		-	common_5-0-0b104.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+adapters/ctparser	-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+adapters/ctparser	-	xerces		-	xercesImpl.jar		-	vobs/eniq_3pp/apache/xerces_parser/v262/prod
+
+
+adapters/mdc		-	common		-	common_5-0-0b104.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+adapters/mdc		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+adapters/mdc		-	repository	-	repository_5-0-0b123.jar	-	vobs/eniq_design/plat/installer/build/repository
+adapters/mdc		-	xerces		-	xercesImpl-2.0.2.jar		-	vobs/eniq_3pp/apache/xerces_parser/v262/prod
+
+
+adapters/nascii		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+
+
+adapters/nossdb		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+
+
+adapters/omes		-	common		-	common_5-0-0b104.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+adapters/omes		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+adapters/omes		-	xerces		-	xercesImpl.jar		-	vobs/eniq_3pp/apache/xerces_parser/v262/prod
+
+
+adapters/omes2		-	common		-	common_5-0-0b104.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+adapters/omes2		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+adapters/omes2		-	xerces		-	xercesImpl.jar		-	vobs/eniq_3pp/apache/xerces_parser/v262/prod
+
+
+adapters/parser		-	alarm		-	alarm_5-0-0b124.jar	-	vobs/eniq_design/plat/alarm_module/build/alarm_module
+adapters/parser		-	common		-	common_5-0-0b104.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+adapters/parser		-	engine		-	engine_5-0-0b515.jar		-	vobs/eniq_design/plat/etl_controller/build/engine
+adapters/parser		-	repository	-	repository_5-0-0b147.jar	-	vobs/eniq_design/plat/installer/build/repository
+
+
+adapters/raml		-	common		-	common_5-0-0b104.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+adapters/raml		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+adapters/raml		-	xerces		-	xercesImpl.jar		-	vobs/eniq_3pp/apache/xerces_parser/v262/prod
+
+
+adapters/sasn		-	common		-	common_5-0-0b104.jar	-	vobs/eniq_design/plat/common_utilities/build/common_utilities
+adapters/sasn		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+
+
+adapters/stfiop		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+
+
+adapters/xml		-	parser		-	parser_5-0-0b213.jar	-	vobs/eniq_design/plat/adapters/build/parser
+adapters/xml		-	xerces (registerd yet????)	-	xercesImpl.jar		-	vobs/eniq_3pp/apache/xerces_parser/v262/prod
+adapters/xml		-	xml		-	xml-apis.jar		-	vobs/eniq_3pp/apache/xml_commons/v11/prod
